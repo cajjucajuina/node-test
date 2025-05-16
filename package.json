@@ -1,0 +1,14 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "devDependencies": {
+    "node": "^20.19.2"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
