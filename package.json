@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": ""
+    "start": "nodemon index.js"
   },
   "devDependencies": {
     "node": "^20.19.2"
